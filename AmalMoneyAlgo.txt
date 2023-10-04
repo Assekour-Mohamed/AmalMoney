@@ -1,0 +1,13 @@
+Algorithme AmalMlney
+variables
+  n,i,s:entier
+debut 
+  ecrire("entree Numb")
+  lire(n)
+  s<-0
+  i<-0
+  tant que i<=n fair
+       s = s+ 500+ i *3
+       i=i+1
+  fin tantque
+fin
